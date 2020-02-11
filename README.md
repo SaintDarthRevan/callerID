@@ -1,6 +1,7 @@
 # Парсер базы кодов и регионов
 
 Данные парсятся отсюда: https://www.mtt.ru/ru/pomosh-i-podderzhka/defcodes/
+
 caller_id.sql - структура базы данных.
 phonecodes_parser.php - скрипт парсинга данных.
 Для поиска по html-коду используется библиотека Simple HTML DOM.
